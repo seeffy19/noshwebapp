@@ -14,7 +14,7 @@
   },
   "homepage": "https://github.com/seeffy19/noshwebapp#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "faker": "^4.1.0",
     "knex": "^0.20.9",
     "nodemon": "^2.0.2",
